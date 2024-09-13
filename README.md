@@ -1,9 +1,11 @@
 
-# European Bioconductor conference 2023 website
+# European Bioconductor Conference 2025 Website
 
 This repository contains material for the European Bioconductor annual conference. 
-View <!--the example at https://bioc2022.bioconductor.org/ and--> the corresponding
-[GitHub repo](https://github.com/Bioconductor/EuroBioC2023). Created using [BioC_template](https://github.com/Bioconductor/BioC_template).
+View the corresponding [GitHub repo](https://github.com/rcastelo/EuroBioC2025).
+Created using [BioC_template](https://github.com/Bioconductor/BioC_template), and
+the contents of the website of the previous 2024 edition of the conference. There
+may be contents corresponding to 2024, they will be updated soon.
 
 Run Hugo to preview the webpage locally.
 
