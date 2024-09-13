@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-## General registration for EuroBioC2024 is open!
+## General registration for EuroBioC2025 is not open yet
 
 <!-- #### Registration fees -->
 
@@ -12,17 +12,19 @@ description = "Registration"
 ### Register
 
 <center>
-<!-- A link to the registration page will appear here when registration is open. -->
-Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/eurobioc2024" target="_blank">Oxford University Store</a>.
+A link to the registration page will appear here when registration is open.
+<!-- Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/eurobioc2024" target="_blank">Oxford University Store</a>. -->
 </center>
 
 ### Fee
 
+<!--
 |   |   |
 | :----- | :-- |
 | Junior Researcher Undergraduate or postgraduate students and postdocs	| **£100.00** |
 | Academic / Non-profit Researchers from academic and other non-profit institutions | **£250.00** |
 | Industry / For-profit Researchers from the commercial sector | **£500.00** |
+-->
 
 <br/>
 
@@ -37,20 +39,12 @@ For inquiries related to conference registration, organisation, or certificates 
 
 ### Accommodation
 
+Forthcoming.
+<!--
 Accommodation was arranged with [New College](https://www.new.ox.ac.uk/).
 
 Rooms in New College can be booked directly as part of the registration process (see registration link above).
-
-#### New College
-
-For accommodation at New College:
-
-<!-- - Payment Deadline: Pay by 3<sup>rd</sup> June to guarantee a spot. -->
-- Bed and Breakfast: Private ensuite room with breakfast in the College Hall.
-- Location: Recently completed in the "Quadrangle", just a 5-minute walk to the venue and the centre of town.
-- Discount: We’ve negotiated a generous 20% discount off the regular price.
-
-More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quadrangles).
+-->
 
 <hr/>
 
@@ -59,18 +53,20 @@ More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quad
 ### Register
 
 <center>
-<!-- A link to the registration page will appear here when registration is open. -->
+A link to the registration page will appear here when registration is open.
 <!-- Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>. -->
-Please follow the links below to apply to each individual workshop. Note: You do not need to register for the conference to attend the workshops.
+<!-- Please follow the links below to apply to each individual workshop. Note: You do not need to register for the conference to attend the workshops. -->
 </center>
 
 ### Fee
 
+<!--
 |   |   |   |
 | :----- | :-- | :-- |
 | Introduction to R and Bioconductor	| **£100.00** | [Apply][bioc-intro-register] |
 | RNA-seq analysis with Bioconductor | **£100.00** | [Apply][bioc-rnaseq-register] |
 | Introduction to the Bioconductor project | **£100.00** | [Apply][ bioc-project-register] |
+-->
 
 ### Accommodation
 
