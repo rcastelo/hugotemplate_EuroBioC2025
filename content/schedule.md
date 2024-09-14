@@ -5,35 +5,39 @@ description = "Schedule"
 
 ## Links to abstracts
 
+<!--
 + [All short talk abstracts](../tags/short-talk/)
 + [All package demo abstracts](../tags/package-demo/)
 + [All poster abstracts](../tags/poster)
+-->
 
-{{< schedule date="Wednesday, September 4, 2024" day="day1">}} 
-{{< schedule date="Thursday, September 5, 2024" day="day2">}} 
-{{< schedule date="Friday, September 6, 2024" day="day3">}}
+<!--
+{{< schedule date="Wednesday, September 17, 2025" day="day1">}} 
+{{< schedule date="Thursday, September 18, 2025" day="day2">}} 
+{{< schedule date="Friday, September 19, 2025" day="day3">}}
+-->
 
-<!-- 
 The indications below are approximate and will be more precise and detailed closer to the conference.
 
-## Wednesday, September 4, 2024
+## Wednesday, September 17, 2025
 
-<strong>Approx. 9:15:</strong> Start day 1
+<strong>Approx. 09:00:</strong> Start day 1
 
-<strong>Approx. 17:30:</strong> End day 1
+<strong>Approx. 18:00:</strong> End day 1
 
 <strong>Evening event</strong> (to be confirmed)
 
-## Thursday, September 5, 2024
+## Thursday, September 18, 2025
 
-<strong>Approx. 9:00:</strong> Start day 2
+<strong>Approx. 09:00:</strong> Start day 2
 
-<strong>Approx. 17:30:</strong> End day 2
+<strong>Approx. 18:00:</strong> End day 2
 
-## Friday, September 6, 2024
+## Friday, September 19, 2025
 
-<strong>Developer day:</strong> more flexible program including hackathon and discussion sessions related to a variety of topics.
--->
+<strong>Approx. 09:00:</strong> Start day 3
+
+<strong>Approx. 13:00:</strong> End day 3
 
 
 <!-- backup (2022)

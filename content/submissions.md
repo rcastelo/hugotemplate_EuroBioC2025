@@ -5,12 +5,15 @@ description = "Submissions"
 
 ## Call for abstracts
 
+Forthcoming.
 <!-- [Submit your abstract here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2024/Conference) -->
 
+<!--
 * **February 1**: Call for abstracts opens
 * **April 26 (5pm BST)**: Call for abstracts closes
 * **May 8**: Notification of abstract decision
 * **September 5**: Submission of Birds-of-a-Feather sessions closes
+-->
 
 <!--
 **Important Dates**
@@ -26,7 +29,6 @@ description = "Submissions"
 * April 16, 2021: Notification of decision
 * Registration will open soon
 * August 4-6, 2021: BioC2021
--->
 
 ## Submission types
 
@@ -48,8 +50,6 @@ Submit a flashtalk using this <a href="https://forms.gle/TxRc5HDEi9Mhppp47">Goog
 
 ### Birds-of-a-feather
 
-<!-- ### Birds-of-a-feather - Submission open! -->
-
 Birds-of-a-feather sessions are free-format, organizer-lead interactive discussions on a topic relevant to the Bioconductor community.
 Birds-of-a-feather sessions can be proposed until **September 5**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
 
@@ -70,10 +70,8 @@ Inclusion of the [Bioconductor logo](https://www.bioconductor.org/about/logo/) a
 
 40 min demonstration of a software package or workflow.
 
-<!--
 ### Long workshop
 1.5 - 2 hour interactive workshop, where participants will be expected to have the time and opportunity to follow along and perform analysis themselves.
--->
 
 ### Poster
 
@@ -89,7 +87,7 @@ Inclusion of the [Bioconductor logo](https://www.bioconductor.org/about/logo/) a
 Dedicated session consisting of 2-3 talks (10-15 min each) and a 10-15 min discussion by the session chair(s).
 To propose a contributed session, all the intended talks must be submitted separately by the respective presenter (as regular short talk submissions) to OpenReview, and in addition a proposal for the contributed session must be submitted by the session chair(s), providing a brief description and listing the talks that would take part in the session. 
 
-<!--
 ### Digital poster
 Digital posters can be submitted and displayed/presented as plain pdf posters, shiny apps, web pages, ... be creative! Posters will be presented in a dedicated remote session.
+
 -->
